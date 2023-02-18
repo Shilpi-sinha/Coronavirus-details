@@ -1,0 +1,18 @@
+.table{
+    background-image: url("/src/asset/background-c19.jpg");
+    height: 104vh;
+    margin-top: -2%
+}
+h2 {
+    color: aliceblue;
+    position: absolute;
+    margin-top: 13%;
+    margin-left:30%
+}
+
+h1{
+    color: aliceblue;
+    margin-left: 38%;
+    position: absolute;
+    margin-top: 5%;
+    }
